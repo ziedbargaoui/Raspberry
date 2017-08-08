@@ -2,6 +2,9 @@
     <wb-module deploy-name="Raspberry">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <dependent-module archiveName="HelloWorldJSP.war" deploy-path="/WEB-INF/lib" handle="module:/resource/HelloWorldJSP/HelloWorldJSP">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
         <property name="context-root" value="Raspberry"/>
         <property name="java-output-path" value="/Raspberry/build/classes"/>
     </wb-module>

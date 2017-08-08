@@ -10,5 +10,12 @@
 
 Helloooooooo Riadh
 
+<form action="Heat" method="post">
+ 
+     Heat Degree <input type="text" name="heatDegree"/>
+        <input type="submit" value="Submit"/>
+ 
+    </form>
+
 </body>
 </html>
