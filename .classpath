@@ -13,82 +13,67 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.1/lib/pi4j-service-sources.jar">
+	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.2-SNAPSHOT/lib/pi4j-gpio-extension-sources.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.1/lib/pi4j-service-javadoc.jar">
+	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.2-SNAPSHOT/lib/pi4j-gpio-extension-javadoc.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.1/lib/pi4j-service.jar">
+	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.2-SNAPSHOT/lib/pi4j-gpio-extension.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.1/lib/pi4j-gpio-extension-sources.jar">
+	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.2-SNAPSHOT/lib/pi4j-example-sources.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.1/lib/pi4j-gpio-extension-javadoc.jar">
+	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.2-SNAPSHOT/lib/pi4j-example-javadoc.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.1/lib/pi4j-gpio-extension.jar">
+	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.2-SNAPSHOT/lib/pi4j-example.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.1/lib/pi4j-example-sources.jar">
+	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.2-SNAPSHOT/lib/pi4j-device-sources.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.1/lib/pi4j-example-javadoc.jar">
+	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.2-SNAPSHOT/lib/pi4j-device-javadoc.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.1/lib/pi4j-example.jar">
+	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.2-SNAPSHOT/lib/pi4j-device.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.1/lib/pi4j-device-sources.jar">
+	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.2-SNAPSHOT/lib/pi4j-core-sources.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.1/lib/pi4j-device-javadoc.jar">
+	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.2-SNAPSHOT/lib/pi4j-core-javadoc.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.1/lib/pi4j-device.jar">
+	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.2-SNAPSHOT/lib/pi4j-core.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.1/lib/pi4j-core-sources.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.1/lib/pi4j-core-javadoc.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.1/lib/pi4j-core.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.1/lib/junit.jar">
+	<classpathentry kind="lib" path="/home/zied/Downloads/pi4j-1.2-SNAPSHOT/lib/junit.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>

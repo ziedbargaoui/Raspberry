@@ -3,7 +3,6 @@
 	<name>Raspberry</name>
 	<comment></comment>
 	<projects>
-		<project>HelloWorldJSP</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
