@@ -1,3 +1,4 @@
+//make ajax call
 $(document).ready(function() {
 	$('#getTemperature').click(function() {
 		$.ajax({
