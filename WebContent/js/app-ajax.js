@@ -1,4 +1,4 @@
-//make ajax call
+//make ajax calleee
 $(document).ready(function() {
 	$('#getTemperature').click(function() {
 		$.ajax({
